@@ -2,7 +2,7 @@ const settings = {
   packname: 'The last son😎',
   author: 'Amour Ar‎',
   botName: "Knight Bot",
-  botOwner: 'Professor', // LAsT 
+  botOwner: 'QueenElina', // LAsT 
   ownerNumber: '255715457053', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
